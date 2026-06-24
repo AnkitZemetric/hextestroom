@@ -1,0 +1,5 @@
+HEX_File       : SH80FV02_A5160626.hex
+BIN_Source     : SH80FV02_A5160626.bin
+BIN_Size       : 477496 bytes
+Firmware_Key   : 3685313705
+Generated_On   : 2026-06-16 18:29:03.443083
